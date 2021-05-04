@@ -1,0 +1,5 @@
+To add this to your game, 
+	1. Navigate to your minecraft directory
+	2. Open a folder named 'kubejs' 
+		- (Gets created after launching the game with KubeJS installed)
+	3. Extract this zip directly into the kubejs folder!
