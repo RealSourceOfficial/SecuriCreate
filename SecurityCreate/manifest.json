@@ -10,8 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "SecurityCreate",
-  "author": "",
+  "name": "SecuriCreate",
+  "version": "1.0",
+  "author": "Source_on_Twitch",
   "files": [
     {
       "projectID": 437717,
@@ -64,6 +65,11 @@
       "required": true
     },
     {
+      "projectID": 335147,
+      "fileID": 3226165,
+      "required": true
+    },
+    {
       "projectID": 291737,
       "fileID": 3247002,
       "required": true
@@ -109,6 +115,11 @@
       "required": true
     },
     {
+      "projectID": 225608,
+      "fileID": 3283693,
+      "required": true
+    },
+    {
       "projectID": 328085,
       "fileID": 3278516,
       "required": true
@@ -134,13 +145,13 @@
       "required": true
     },
     {
-      "projectID": 222880,
-      "fileID": 3248150,
+      "projectID": 245211,
+      "fileID": 3157997,
       "required": true
     },
     {
-      "projectID": 245211,
-      "fileID": 3157997,
+      "projectID": 222880,
+      "fileID": 3248150,
       "required": true
     },
     {
@@ -149,13 +160,13 @@
       "required": true
     },
     {
-      "projectID": 377835,
-      "fileID": 3241397,
+      "projectID": 444965,
+      "fileID": 3279560,
       "required": true
     },
     {
-      "projectID": 444965,
-      "fileID": 3279560,
+      "projectID": 377835,
+      "fileID": 3241397,
       "required": true
     },
     {
@@ -169,8 +180,8 @@
       "required": true
     },
     {
-      "projectID": 268655,
-      "fileID": 3245572,
+      "projectID": 340991,
+      "fileID": 3177267,
       "required": true
     },
     {
@@ -179,8 +190,8 @@
       "required": true
     },
     {
-      "projectID": 340991,
-      "fileID": 3177267,
+      "projectID": 268655,
+      "fileID": 3245572,
       "required": true
     },
     {
