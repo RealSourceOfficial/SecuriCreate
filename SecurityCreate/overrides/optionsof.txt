@@ -38,7 +38,7 @@ ofStars:true
 ofSunMoon:true
 ofVignette:0
 ofChunkUpdates:1
-ofChunkUpdatesDynamic:false
+ofChunkUpdatesDynamic:true
 ofTime:0
 ofAaLevel:0
 ofAfLevel:1
@@ -54,11 +54,11 @@ ofShowCapes:true
 ofNaturalTextures:false
 ofEmissiveTextures:true
 ofLazyChunkLoading:true
-ofRenderRegions:false
+ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:1
+ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
